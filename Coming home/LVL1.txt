@@ -1,0 +1,9 @@
+
+Kraunama prasome palaukti...
+
+Patarimai:
+- Valdyti erdvelaivi galite su klaviaturoje esanciomis strelytemis
+- Stenkites isvengti asteroidu, nes erdvelaivis gali atlaikyti tik tam tikra kieki smugiu
+- Naikinkite asteroidus i juos saudydami paspaude "Space" (ilgaji klavisa)
+- Uz kiekviena sunaikinta asteroida gausite tasku, kuriuos galesite isleisti parduotuveje
+
